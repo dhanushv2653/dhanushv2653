@@ -47,7 +47,7 @@ Full-Stack Development • Scalable Systems • Applied Engineering Software •
 
 📍 India  
 📧 dhanushv2653@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/dhanush-v-b0170829a)
+🔗 [LinkedIn]([www.linkedin.com/in/dhanush-v-b0170829a](https://www.linkedin.com/in/dhanush-v-b0170829a))
 
 ---
 
