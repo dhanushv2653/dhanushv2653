@@ -1,56 +1,68 @@
 # 👋 Dhanush V
 
-### Full-Stack Developer | Software Engineering Enthusiast
+### Engineer | Python Developer | Full-Stack Developer
 
-I am a full-stack developer transitioning from a drones & aerospace background into building scalable web applications. I’ve completed my learning in **Node.js & Express** and am currently working on a **real-world web project for a company**, focusing on backend development, API design, and application structure.
+I am an engineering-focused developer with a background in **drones, aerospace systems, and structural analysis**, now building **software solutions that support engineering decision-making and scalable applications**.
 
-My earlier work with drone systems helped me develop strong problem-solving skills, precision in engineering workflows, and a disciplined approach to building reliable systems — which I now apply to software development.
+My work spans **Python-based engineering analysis**, **data-driven trade studies**, and **full-stack web development**, allowing me to bridge physical systems thinking with modern software practices.
+
+I have hands-on experience in **UAV structural design and analysis**, where I applied analytical methods, simulation tools, and Python scripting to evaluate design trade-offs such as stiffness, mass, and thrust-to-weight performance. In parallel, I develop **backend-driven web applications**, focusing on clean architecture, APIs, and maintainable systems.
+
+Rather than switching domains, I focus on **integrating engineering reasoning with software development** to build reliable, scalable, and explainable systems.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Frontend**
-HTML • CSS • JavaScript
+### Engineering & Analysis
+- Python (engineering calculations, parametric studies, data analysis)
+- Structural analysis fundamentals (beam theory, scaling laws, trade studies)
+- UAV systems & multirotor design concepts
+- Engineering data visualization (Matplotlib, Pandas)
 
-**Backend**
-Node.js • Express.js
+### Backend & Full-Stack Development
+- Node.js • Express.js
+- REST APIs • Routing & Middleware
+- Modular backend architecture
+- Version Control (Git)
 
-**Core Competencies**
-REST APIs • Routing & Middleware • Modular Code Structure • Debugging • Version Control (Git)
+### Frontend
+- HTML • CSS • JavaScript
 
-**Domains of Interest**
-Full-Stack Development • Scalable Systems • Applied Engineering Software • UAV & Robotics (past work)
+---
+
+## 📊 Engineering Projects
+
+- **Python-Based UAV Arm Trade Study**
+  - Parametric analysis of arm length effects on mass, deflection trends, propeller selection, thrust generation, and thrust-to-weight ratio
+  - Used realistic engineering assumptions, discrete prop constraints, and scaling laws
+  - Visualized design trade-offs using Python and Matplotlib
 
 ---
 
 ## 🚧 Current Work
 
-- Working on a **live company web application project**  
-- Backend-driven development with focus on:
-  - API workflow & routing logic  
-  - Clean folder structure & maintainable code  
-  - Real-world software practices
+- Developing a **real-world backend-driven web application** for a company
+- Focus areas:
+  - API design & routing logic
+  - Clean folder structures & maintainable code
+  - Applying engineering discipline to software systems
 
 ---
 
-## 🎯 Ongoing Development Goals
+## 🎯 Development Focus
 
-- Strengthen backend depth with **databases & authentication**
-- Deploy and maintain **production-ready applications**
-- Build a portfolio of **full-stack projects**
-- Grow toward combining **engineering + software solutions**
-
----
-
-📫 Contact
-
-📍 India
-📧 dhanushv2653@gmail.com
-
-🔗 LinkedIn — https://www.linkedin.com/in/dhanush-v-b0170829a
+- Deeper Python usage for **engineering analytics & automation**
+- Backend systems with **databases & authentication**
+- Data-driven engineering tools & dashboards
+- Combining **aerospace engineering principles with software systems**
 
 ---
 
-> *Focused on building reliable software through discipline, learning, and execution.*
+📫 **Contact**
 
+📍 India  
+📧 dhanushv2653@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/dhanush-v-b0170829a  
+
+> *Building software and analysis tools with engineering discipline and real-world constraints.*
